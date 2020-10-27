@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="200px" src="./logo.png" alt="Aprenda Elixir" style="width:100px;">
+	<img src="./logo.png" alt="Aprenda Elixir" style="width:100px;">
 </p>
 
 <h1 align="center">Aprenda Elixir</h1>
