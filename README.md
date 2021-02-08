@@ -24,6 +24,9 @@
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
 [Lições sobre a linguagem de programação Elixir](https://elixirschool.com/) | [elixirschool](https://elixirschool.com/) | :green_heart: | Lógica de Programação | :free:
+[Guia Definivito Elixir](https://www.youtube.com/watch?v=9J3RAfQJhuA&list=PLEs0qgZpGeOVQFnsN9t93rr5KjlKGU2oS) | elx pro BR/YouTube | :green_heart: | Elixir | :free:
+[Elixir e Phoenix do Zero](https://www.udemy.com/course/elixir-e-phoenix-do-zero/) | [Udemy](https://www.udemy.com/) | :green_heart: | Elixir/Phoenix | :moneybag:
+[Elixir API](https://www.youtube.com/watch?v=Lh4jWNrbw1w&list=PLEs0qgZpGeOXmhOzmTIl89xSvpvEpuofT) | elx pro BR/YouTube | :large_orange_diamond: | Elixir/Phoenix | :free:
 
 [Ir para o índice](#Índice)
 
@@ -35,10 +38,15 @@ Elixir: Do zero à concorrência |  Tiago Davi | EBook, Impresso | :moneybag: | 
 
 [Ir para o índice](#Índice)
 
+## :speech_balloon: Comunidades
+
+Nome da Comunidade | Tipo | Idioma
+:-- | :-- | :--
+[Grupo Pro](https://elxpro.com/elxcrew-org-yt-descr) | Telegram | Português
 
 ## Mais Sobre
 
-* [Documentação Elixer](https://elixir-lang.org/docs.html)
+* [Documentação Elixir](https://elixir-lang.org/docs.html)
 * [Documentação Phoenix](https://hexdocs.pm/phoenix/1.4.17/overview.html)
 * [Starting with Elixir, the Study Guide](http://blog.plataformatec.com.br/2018/11/starting-with-elixir-the-study-guide/?utm_source=our-twitter&utm_medium=social&utm_campaign=blog-post-promotion)
 
