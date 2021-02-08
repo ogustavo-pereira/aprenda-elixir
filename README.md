@@ -10,6 +10,7 @@
 <p align="center">
 	<a href="#mortar_board-cursos">Cursos</a> •
 	<a href="#book-livros">Livros</a> •
+	<a href="#mais-sobre">Comunidades</a> •
 	<a href="#mais-sobre">Mais Sobre</a>
 </p>
 
