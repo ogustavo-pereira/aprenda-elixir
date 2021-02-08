@@ -48,9 +48,7 @@ Elixir: Do zero à concorrência |  Tiago Davi | EBook, Impresso | :moneybag: | 
 
 Este projeto é mantido pela(s) seguinte(s) pessoa(s):
 
-[![oguhpereira](https://avatars3.githubusercontent.com/u/24482087?s=70&v=3)](https://github.com/oguhpereira) 
---- |
-[Gustavo Pereira](https://github.com/oguhpereira) | 
+* [Gustavo Pereira](https://github.com/oguhpereira)
 
 <h6 align="center">
 	<a href="./MIT.md">MIT</a>
