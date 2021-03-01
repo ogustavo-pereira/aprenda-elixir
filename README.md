@@ -58,6 +58,7 @@ Nome da Comunidade | Tipo | Idioma
 Este projeto é mantido pela(s) seguinte(s) pessoa(s):
 
 * [Gustavo Pereira](https://github.com/oguhpereira)
+* [Rickson Oliveira](https://github.com/ricksonoliveira)
 
 <h6 align="center">
 	<a href="./MIT.md">MIT</a>
