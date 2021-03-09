@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="./logo.png" alt="Aprenda Elixir" style="width:100px;">
+	<img src="https://raw.githubusercontent.com/learnbr/elixir/master/logo.png" alt="Aprenda Elixir" style="width:100px;">
 </p>
 
 <h1 align="center">Aprenda Elixir</h1>
@@ -17,20 +17,14 @@
 
 ## :mortar_board: Cursos
 
-**Legenda:**
-
-- :green_heart:: Básico
-- :large_orange_diamond:: Intermediário
-- :red_circle:: Avançado
-
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
-[Guia Definivito Elixir](https://www.youtube.com/watch?v=9J3RAfQJhuA&list=PLEs0qgZpGeOVQFnsN9t93rr5KjlKGU2oS) | elx pro BR/YouTube | :green_heart: | Elixir | :free:
-[Elixir API](https://www.youtube.com/watch?v=Lh4jWNrbw1w&list=PLEs0qgZpGeOXmhOzmTIl89xSvpvEpuofT) | elx pro BR/YouTube | :large_orange_diamond: | Elixir/Phoenix | :free:
-[Elixir e Phoenix do Zero](https://www.udemy.com/course/elixir-e-phoenix-do-zero/) | [Udemy](https://www.udemy.com/) | :green_heart: | Elixir/Phoenix | :moneybag:
-[Elixir & OTP](https://pragmaticstudio.com/elixir) | pragmaticstudio | - | Elixir & OTP | :moneybag:
-[Elixir Course](https://grox.io/language/elixir/course) | grox.io | - | Elixir | :moneybag:
-[OTP Course](https://grox.io/language/otp/course) | grox.io | - | OTP | :moneybag:
+[Guia Definivito Elixir](https://www.youtube.com/watch?v=9J3RAfQJhuA&list=PLEs0qgZpGeOVQFnsN9t93rr5KjlKGU2oS) | elx pro BR/YouTube | Básico | Elixir | Gratuito
+[Elixir API](https://www.youtube.com/watch?v=Lh4jWNrbw1w&list=PLEs0qgZpGeOXmhOzmTIl89xSvpvEpuofT) | elx pro BR/YouTube | Intermediario | Elixir/Phoenix | Gratuito
+[Elixir e Phoenix do Zero](https://www.udemy.com/course/elixir-e-phoenix-do-zero/) | [Udemy](https://www.udemy.com/) | Básico | Elixir/Phoenix | Pago
+[Elixir & OTP](https://pragmaticstudio.com/elixir) | pragmaticstudio | - | Elixir & OTP | Pago
+[Elixir Course](https://grox.io/language/elixir/course) | grox.io | - | Elixir | Pago
+[OTP Course](https://grox.io/language/otp/course) | grox.io | - | OTP | Pago
 
 [Ir para o índice](#Índice)
 
@@ -39,17 +33,17 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 
 Título | Autor | Formato | Pago/Gratuito | Idioma
 :-- | :--: | :--: | :--: | :--:
-[Lições sobre a linguagem de programação Elixir](https://elixirschool.com/) | Elixir School | HTML |  :free: | Inglês
-[Joy Elixir](https://joyofelixir.com/) | Ryan | HTML | :free: | Inglês
-[Guia para um DOJO de Elixir](http://victorolinasc.github.io/elixir_dojo/dojo.html) |  Victor Oliveira Nascimento | HTML | :free: | Português
-[Learn Functional Programming with Elixir](https://pragprog.com/titles/cdc-elixir/learn-functional-programming-with-elixir/) | Ulisses Almeida | Ebook | :moneybag: | Inglês
-Elixir: Do zero à concorrência |  Tiago Davi | EBook, Impresso | :moneybag: | Português
-Programming Elixir 1.6 | Dave Thomas | EBook  | :moneybag: | Inglês
-Elixir in Action, Second Edition | Saša Jurić | EBook | :moneybag: | Inglês
-Adopting Elixir | Ben Marx, José Valim, Bruce Tate | EBook | :moneybag: | Inglês
-The Little Elixir & OTP Guidebook | Benjamin Tan Wei Hao  | EBook | :moneybag: | Inglês
-Toy Robot - The Elixir Version | Ryan Bigg | Ebook | :moneybag: | Inglês
-Elixir Succinctly  | Emanuele DelBono| Ebook | :moneybag: | Inglês
+[Lições sobre a linguagem de programação Elixir](https://elixirschool.com/) | Elixir School | HTML |  Gratuito | Inglês
+[Joy Elixir](https://joyofelixir.com/) | Ryan | HTML | Gratuito | Inglês
+[Guia para um DOJO de Elixir](http://victorolinasc.github.io/elixir_dojo/dojo.html) |  Victor Oliveira Nascimento | HTML | Gratuito | Português
+[Learn Functional Programming with Elixir](https://pragprog.com/titles/cdc-elixir/learn-functional-programming-with-elixir/) | Ulisses Almeida | Ebook | Pago | Inglês
+Elixir: Do zero à concorrência |  Tiago Davi | EBook, Impresso | Pago | Português
+Programming Elixir 1.6 | Dave Thomas | EBook  | Pago | Inglês
+Elixir in Action, Second Edition | Saša Jurić | EBook | Pago | Inglês
+Adopting Elixir | Ben Marx, José Valim, Bruce Tate | EBook | Pago | Inglês
+The Little Elixir & OTP Guidebook | Benjamin Tan Wei Hao  | EBook | Pago | Inglês
+Toy Robot - The Elixir Version | Ryan Bigg | Ebook | Pago | Inglês
+Elixir Succinctly  | Emanuele DelBono| Ebook | Pago | Inglês
 
 
 [Ir para o índice](#Índice)
