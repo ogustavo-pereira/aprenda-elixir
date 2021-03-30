@@ -58,6 +58,7 @@ Nome da Comunidade | Tipo | Idioma
 [Elixir BR](https://t.me/elixirbr) | Telegram | Português
 
 ## :sound: Podcasts
+
 Nome do Podcast | Idioma
 :-- | :--:
 [Running in Production](https://runninginproduction.com/tags/elixir) | Inglês
