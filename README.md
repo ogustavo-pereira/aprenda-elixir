@@ -21,10 +21,11 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
 [Guia Definivito Elixir](https://www.youtube.com/watch?v=9J3RAfQJhuA&list=PLEs0qgZpGeOVQFnsN9t93rr5KjlKGU2oS) | elx pro BR/YouTube | Básico | Elixir | Gratuito
 [Elixir API](https://www.youtube.com/watch?v=Lh4jWNrbw1w&list=PLEs0qgZpGeOXmhOzmTIl89xSvpvEpuofT) | elx pro BR/YouTube | Intermediario | Elixir/Phoenix | Gratuito
-[Elixir e Phoenix do Zero](https://www.udemy.com/course/elixir-e-phoenix-do-zero/) | [Udemy](https://www.udemy.com/) | Básico | Elixir/Phoenix | Pago
 [Elixir & OTP](https://pragmaticstudio.com/elixir) | pragmaticstudio | - | Elixir & OTP | Pago
 [Elixir Course](https://grox.io/language/elixir/course) | grox.io | - | Elixir | Pago
 [OTP Course](https://grox.io/language/otp/course) | grox.io | - | OTP | Pago
+[The Complete Elixir and Phoenix Bootcamp](https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/) | [Udemy](https://www.udemy.com) | Itermediario | Elixir/Phoenix | Pago
+[Alquimia Stone - Formação Gratuita em Elixir](https://www.youtube.com/playlist?list=PLv3nyCBtlWP8I9rknIrfcJWrO05yEzknD) | [YouTube](https://youtube.com) | Básico | Elixir | Gratuito
 
 [Ir para o índice](#Índice)
 
@@ -62,8 +63,7 @@ Nome da Comunidade | Tipo | Idioma
 Nome do Podcast | Idioma
 :-- | :--:
 [Running in Production](https://runninginproduction.com/tags/elixir) | Inglês
-
-
+[Elixir em foco](https://github.com/learnbr/elixir) | Português
 
 ## Mais Sobre
 
