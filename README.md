@@ -74,18 +74,3 @@ Nome do Podcast | Idioma
 * [Elixir FlashCards](https://elixircards.co.uk/)
 * [koans](http://elixirkoans.io/)
 * [exercism](https://exercism.io/tracks/elixir)
-
-
-## Time
-
-
-Este projeto é mantido pela(s) seguinte(s) pessoa(s):
-
-* [Gustavo Pereira](https://github.com/oguhpereira)
-* [Rickson Oliveira](https://github.com/ricksonoliveira)
-
-<h6 align="center">
-	<a href="./MIT.md">MIT</a>
-	©
-	Learn Br
-</h6>
