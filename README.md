@@ -53,7 +53,6 @@ Elixir Succinctly  | Emanuele DelBono| Ebook | Pago | Inglês
 
 Nome da Comunidade | Tipo | Idioma
 :-- | :-- | :--
-[Grupo Pro](https://elxpro.com/elxcrew-org-yt-descr) | Telegram | Português
 [Elug CE](https://t.me/elug_ce) | Telegram | Português
 [Elixir User Group SP](https://www.meetup.com/elug_sp/) | Meetup | Português
 [Elixir BR](https://t.me/elixirbr) | Telegram | Português
